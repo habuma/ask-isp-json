@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "type": "SUBSCRIPTION",
-  "referenceName": "some-subscription",
+  "referenceName": "TODO: PROVIDE A REFERENCE NAME FOR THIS PRODUCT",
   "subscriptionInformation": {
     "subscriptionPaymentFrequency": "TODO: REPLACE THIS WITH SUBSCRIPTION RENEWAL FREQUENCY - MONTHLY or YEARLY",
     "subscriptionTrialPeriodDays": 0
